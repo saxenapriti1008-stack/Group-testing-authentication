@@ -16,6 +16,16 @@ If you are new here, read this file top to bottom once, then skim the **“Where
 
 ---
 
+screenshots:- Test Files  1 passed (1)
+      Tests  5 passed (5)
+   Start at  09:48:39
+   Duration  8.45s (transform 79ms, setup 1.09s, collect 673ms, tests 35ms, environment 5.38s, prepare 399ms)
+
+   Test Files  1 passed (1)
+      Tests  5 passed (5)
+   Start at  09:50:50
+   Duration  1.16s (transform 63ms, setup 0ms, collect 229ms, tests 129ms, environment 0ms, prepare 3
+   
 ## Repository layout
 
 ```
