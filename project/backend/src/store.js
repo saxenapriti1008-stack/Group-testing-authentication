@@ -6,7 +6,17 @@ let gyms = [
     address: '1 Main St',
     reviews: [],
   },
+{
+    id: 'seed-2',
+    name: 'City Gym',
+    address: '100 Oak Ave',
+    reviews: [],
+  },
+
+
 ];
+
+
 
 let nextId = 2;
 
