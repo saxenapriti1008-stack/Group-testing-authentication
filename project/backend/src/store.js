@@ -18,7 +18,7 @@ let gyms = [
 
 
 
-let nextId = 2;
+let nextId = 3;
 
 export function listGyms() {
   return gyms.map((g) => ({
@@ -58,6 +58,12 @@ export function __resetStore() {
       address: '1 Main St',
       reviews: [],
     },
+    {
+      id: 'seed-2',
+      name: 'City Gym',
+      address: '100 Oak Ave',
+      reviews: [],
+    },
   ];
-  nextId = 2;
+  nextId = 3;
 }
