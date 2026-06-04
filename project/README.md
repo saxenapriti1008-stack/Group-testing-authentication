@@ -43,7 +43,7 @@ screenshots:- Test Files  1 passed (1)
 
 | | URL (fill in after deploy) |
 |---|---|
-| **Frontend (Vercel)** | https://vercel.com/priti-saxena-s-projects/group-testing-authentication-cgc4/deployments |
+| **Frontend (Vercel)** https://group-testing-authentication-cgc4.vercel.app/
 | **Backend (Render)** | https://group-testing-authentication.onrender.com|
 | **GitHub repo** | https://github.com/saxenapriti1008-stack/Group-testing-authentication.git |
 
