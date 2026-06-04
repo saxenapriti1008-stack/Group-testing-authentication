@@ -38,6 +38,17 @@ screenshots:- Test Files  1 passed (1)
    Start at  09:50:50
    Duration  1.16s (transform 63ms, setup 0ms, collect 229ms, tests 129ms, environment 0ms, prepare 3
    
+
+   A full-stack app to browse gyms, add locations, and post star ratings with comments. Built with **React**, **Node/Express**, **PostgreSQL**, **Firebase Authentication**, and **Docker**.
+
+| | URL (fill in after deploy) |
+|---|---|
+| **Frontend (Vercel)** | https://vercel.com/priti-saxena-s-projects/group-testing-authentication-cgc4/deployments |
+| **Backend (Render)** | https://group-testing-authentication.onrender.com|
+| **GitHub repo** | https://github.com/saxenapriti1008-stack/Group-testing-authentication.git |
+
+
+
 ## Repository layout
 
 ```
