@@ -1,1 +1,1 @@
-export { verifyIdToken } from './firebaseAdmin.js';
+export { verifyIdToken } from './firebase/firebaseAdmin.js';

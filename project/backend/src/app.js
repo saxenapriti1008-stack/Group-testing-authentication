@@ -5,7 +5,7 @@ import { verifyToken } from './middleware/verifyToken.js';
 
 export function createApp() {
   const app = express();
-  const clientOrigin = process.env.CLIENT_ORIGIN || 'http://localhost:5173';
+  const clientOrigin = process.env.CLIENT_ORIGIN || 'http://localhost:5174';
 
   app.use(
     cors({
